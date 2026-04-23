@@ -1,7 +1,7 @@
 ## Hi, I'm Julia!
 
 Computer Science student at Concordia University
-Interested in game development, interactive storytelling, and UI design
+
 
 ## How to reach me:
 
